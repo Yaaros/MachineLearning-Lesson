@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "ca62f7fa642ca9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced9b3165e5d39ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e634915d16261c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验报告一.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d50431fed5d0ba74",
+    "type": "split",
+    "children": [
+      {
+        "id": "937121f933ebf303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acadbf8391b9927b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dda12285a4c3854d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4be734e2fff0f180",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8454810dfa4f27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd02f60c43c3723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90623b44651b52cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实验报告一.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bd146551ab2a0fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实验报告一.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0766a6dfe8bdd66f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "594a1b2f00f37ec5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实验报告一.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "acadbf8391b9927b",
+  "lastOpenFiles": [
+    "imgs/ScikitLearn.png",
+    "imgs/创建隔离环境.png",
+    "实验报告一.md",
+    "imgs/版本校验.png",
+    "imgs/安装Anaconda.png",
+    "imgs"
+  ]
+}
